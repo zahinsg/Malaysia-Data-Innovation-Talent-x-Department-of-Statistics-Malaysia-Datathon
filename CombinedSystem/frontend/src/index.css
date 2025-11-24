@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles can be added here if needed, but we'll stick to utility classes in JSX for now to avoid build errors */
+body {
+  background-color: #111827;
+  /* bg-gray-900 */
+  color: white;
+}

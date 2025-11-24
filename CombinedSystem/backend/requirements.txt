@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+websockets
+ultralytics
+deepface
+opencv-python
+pandas
+python-multipart
+tf-keras
+requests
