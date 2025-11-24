@@ -37,8 +37,8 @@ PPE_MODEL_PATH = os.path.join(MODELS_DIR, "ppe_detection.pt")
 REQUIRED_PPE = {"helmet", "safety-vest"}
 
 # Telegram Configuration
-TELEGRAM_BOT_TOKEN = "8535107453:AAH9yApA9ojVrJVUqw6l5I1KNPaDSLKobTQ"
-TELEGRAM_CHAT_ID = "7709122602"
+TELEGRAM_BOT_TOKEN = #bot token
+TELEGRAM_CHAT_ID = #chat id 
 ALERT_DELAY_SECONDS = 20
 
 # --- Global State ---
